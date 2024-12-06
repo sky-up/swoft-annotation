@@ -16,7 +16,7 @@ Swoft Annotation Component
 - composer command
 
 ```bash
-composer require swoft/annotation
+composer require swoft-fork/annotation
 ```
 
 ## Resources
